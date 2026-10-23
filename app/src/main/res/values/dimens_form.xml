@@ -1,0 +1,9 @@
+<resources>
+    <dimen name="form_field_height">56dp</dimen>
+    <dimen name="form_field_top_gap">8dp</dimen>
+    <dimen name="form_field_bottom_gap">16dp</dimen>
+    <dimen name="form_field_padding">16dp</dimen>
+    <dimen name="form_field_corner">8dp</dimen>
+    <dimen name="form_field_border">1dp</dimen>
+    <dimen name="form_field_focused_border">2dp</dimen>
+</resources>

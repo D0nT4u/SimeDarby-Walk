@@ -1,0 +1,35 @@
+<resources>
+    <string name="choose_role">Choose your role</string>
+    <string name="choose_role_description">Select how you use SimeDarby Walk.</string>
+    <string name="role_resident">Resident</string>
+    <string name="role_guard">Guard</string>
+    <string name="role_management">Management</string>
+    <string name="resident_access_description">Plan a walk, report hazards and reach trusted contacts.</string>
+    <string name="guard_access_description">Respond to SOS alerts and view open hazards.</string>
+    <string name="management_access_description">Review township reports and manage known works.</string>
+    <string name="continue_as_role">Continue as %1$s</string>
+    <string name="sign_in_title">Sign in</string>
+    <string name="selected_role_label">%1$s access</string>
+    <string name="demo_credentials_note">Demo credentials are filled in. Sign in to continue.</string>
+    <string name="change_role">Change role</string>
+    <string name="resident_register">Register now</string>
+    <string name="resident_register_note">No account?</string>
+    <string name="registration_prompt">No account? Register now</string>
+    <string name="role_dropdown_label">Role</string>
+    <string name="select_role">Select role</string>
+    <string name="continue_label">Continue</string>
+    <string name="resident_home_title">Home</string>
+    <string name="sample_resident_name">Resident</string>
+    <string name="sample_contact_name">Trusted contact</string>
+    <string name="registered_demo_numbers">Registered demo numbers: +60129876543, +60121112222.</string>
+    <string name="email_label">Email</string>
+    <string name="password_label">Password</string>
+    <string name="invalid_email_message">Enter a valid email.</string>
+    <string name="demo_password_message">Demo password: Demo1234</string>
+    <string name="selected_role_email_error">Use the %1$s demo account for this role.</string>
+    <string name="forgot_password_label">Forgot password?</string>
+    <string name="demo_sign_in_title">Demo sign-in</string>
+    <string name="demo_reset_message">All demo accounts use Demo1234. This offline demo does not send password-reset emails.</string>
+    <string name="close_label">Close</string>
+    <string name="back_to_sign_in">Back to sign in</string>
+</resources>

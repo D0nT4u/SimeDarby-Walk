@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.textfield.TextInputLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    style="@style/Widget.Material3.TextInputLayout.OutlinedBox"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="@dimen/form_field_top_gap"
+    android:layout_marginBottom="@dimen/form_field_bottom_gap"
+    app:boxBackgroundColor="@color/white"
+    app:boxCornerRadiusTopStart="@dimen/form_field_corner"
+    app:boxCornerRadiusTopEnd="@dimen/form_field_corner"
+    app:boxCornerRadiusBottomStart="@dimen/form_field_corner"
+    app:boxCornerRadiusBottomEnd="@dimen/form_field_corner"
+    app:boxStrokeColor="@color/form_field_outline"
+    app:boxStrokeWidth="@dimen/form_field_border"
+    app:boxStrokeWidthFocused="@dimen/form_field_focused_border"
+    app:expandedHintEnabled="false"
+    app:hintAnimationEnabled="false"
+    app:hintTextColor="@color/brand_navy">
+
+    <com.google.android.material.textfield.TextInputEditText
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/form_field_height"
+        android:background="@null"
+        android:gravity="center_vertical"
+        android:paddingStart="@dimen/form_field_padding"
+        android:paddingEnd="@dimen/form_field_padding"
+        android:paddingTop="@dimen/form_field_padding"
+        android:paddingBottom="@dimen/form_field_padding"
+        android:singleLine="true"
+        android:textColor="@color/body_text"
+        android:textSize="16sp" />
+</com.google.android.material.textfield.TextInputLayout>
